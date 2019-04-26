@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Coursera Capstone is the capstone project of the IBM Data Science Specialization
+This Notebook Will Be Mainly Used For The Capstone Project
